@@ -7,10 +7,10 @@ A study guide for pre-work
 - Built in order to learn the basic concepts of coding for web development.
 - I learned so much being new to the tech world. 
 - It was basicly a intro to HTML CSS and Javascript.
-- I learned how to think like a developer, use GitHub, solve real world problems
-- build a simple website with GitBash and VSCode.
+- I learned how to think like a developer, use GitHub, solve real world problems and
+  build a simple website with GitBash and VSCode.
 - Steps that got me there were installing GitBash and VSCode to work hand in hand to make 
-- the website visiable. After instalation of VSCode I learned about HTML, CSS and JavaScript.   
+  the website visiable. After instalation of VSCode I learned about HTML, CSS and JavaScript.   
 
 
 ## Installation
